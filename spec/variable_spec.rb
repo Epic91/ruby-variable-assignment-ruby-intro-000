@@ -1,4 +1,4 @@
-greeting = "Hello_World"
+greeting = "hello_world"
 describe "./variable.rb" do
 
   it "defined a local variable called greeting and set it equal to 'Hello World'" do
