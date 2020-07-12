@@ -1,5 +1,5 @@
 def hello_world
-  
+
 end
 describe "./variable.rb" do
 
